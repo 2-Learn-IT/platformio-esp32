@@ -1,0 +1,1 @@
+{"type": "library", "name": "ArduinoOTA", "version": "2.0.0+sha.237a3fe", "spec": {"owner": null, "id": null, "name": "arduino-esp32", "requirements": null, "uri": "git+https://github.com/espressif/arduino-esp32"}}
